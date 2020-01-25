@@ -18,6 +18,8 @@ I'm a self-motivated, solution-orientated individual with strong communication s
 
 ## Occupational Experience
 
+---
+
 ### BVNK
 
 |Principal DevOps Engineer | Grindrod Bank | Nov 2018 - Present |
