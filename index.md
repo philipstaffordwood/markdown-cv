@@ -27,7 +27,7 @@ Bigbaobab is a Grindrod Bank initiative to rebuild their Core Banking system usi
 
 Main role is to build out the DevOps environment and toolchain and to advise on application and platform design and architecture. 
 
-
+---
 
 ### BCX
 
@@ -74,6 +74,8 @@ Followed up by being a Senior Integration Developer for the Vodacom Business OSS
 
 Primary technology Oracle Fusion Middleware using OSB and Oracle SOA suite and some J2EE interfaces.
 
+---
+
 ### EOH PPM
 
 **|Senior Consultant | Nov 2007 - Sep 2012 |**
@@ -100,6 +102,8 @@ Technical achievements during this time include
 * Forming part of the technical support team for the Barclays HP PPM implementation.
 * Being the technical team-lead for an upgrade of HP PPM from 7.5 to 9.1.
 
+---
+
 ### Business Connexion
 
 **|Message Architect | Eskom | Jul 2007 - Oct 2007 |**
@@ -115,6 +119,7 @@ The performance of the above tasks and responsibilities included constant intera
 
 Technical competencies used in this role included expertise in the full range of XML-based technologies, with a good understanding of database representations and technologies as well as the understanding of SOA and the range of technologies supporting it.
 
+---
 
 ### SiloFX
 
