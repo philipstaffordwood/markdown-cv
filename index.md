@@ -24,12 +24,13 @@ I'm a self-motivated, solution-orientated individual with strong communication s
 
 |Principal DevOps Engineer | Grindrod Bank | Nov 2018 - Present |
 
-
 Principal DevOps Engineer for the Grindrod Bank Bigbaobab team.
 
 Bigbaobab is a Grindrod Bank initiative to rebuild their Core Banking system using a modern microservice architecture.
 
 Main role is to build out the DevOps environment and toolchain and to advise on application and platform design and architecture. 
+
+**Technologies used:** AWS, DigitalOcean, Kubernetes, Docker, Docker-Compose, Ansible, Terraform, libvirt, Jenkins, Postman/Newman, JMeter, SonarQube, dotnet core, Java, Spring, Postgres
 
 ---
 
