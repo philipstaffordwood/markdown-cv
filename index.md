@@ -2,7 +2,9 @@
 # CV - Philip Wood - Devops Engineer
 
 <philip.wood@gmail.com>
+
 <https://github.com/philipstaffordwood>
+
 <https://www.linkedin.com/in/philipstaffordwood>
 
 **Currently:** DevOps Engineer at [BVNK LTD](https://bvnk.co/)
