@@ -20,8 +20,7 @@ I'm a self-motivated, solution-orientated individual with strong communication s
 ### BVNK
 
 |Principal DevOps Engineer | Grindrod Bank | Nov 2018 - Present |
-|----------------|---------------|--------------------|
-| | |  |
+
 
 Principal DevOps Engineer for the Grindrod Bank Bigbaobab team.
 
@@ -34,7 +33,6 @@ Main role is to build out the DevOps environment and toolchain and to advise on 
 ### BCX
 
 |Principal  Developer | BCX | Jul 2018 - Nov 2018 |
-|---------------------|-----|---------------------|
 
 As member of a velocity team (our brief was: concept to POC, then handover to
 implementation team to do POC to MVP) I worked on analyzing a legacy codebase of more than
@@ -49,7 +47,6 @@ codes.
 This role then transitioned into being the lead analyst for the integration part of a large integration project using [WSO2 Enterprise Integrator](https://wso2.com/integration/)
 
 |Principal Integration Developer | South African Reserve Bank | Nov 2016 - Jul 2018 |
-|--------------------------------|----------------------------|---------------------|
 
 I helped to establish an Enterprise Integration Centre of Excellence while contracted out to the South
 African Reserve Bank.
@@ -63,14 +60,14 @@ integration ops teams administering the key SARB Integration platforms for the C
 
 
 |Senior Integration Developer | Oct 2014 - Oct 2016 |
-|-----------------------------|---------------------|
+
 
 Integration Standard Bank. Technical analysis of legacy PL SQL and JCaps Java code.
 
 Development of IBM IIB solutions. Scrum master of delivery teams on Foundation programme and Industrialization Project.
 
 |Senior Integration Developer | Sep 2012 - Sep 2014 |
-|-----------------------------|---------------------|
+
 
 Senior Integration developer at Vodacom.
 
@@ -82,7 +79,7 @@ Primary technology Oracle Fusion Middleware using OSB and Oracle SOA suite and s
 ### EOH PPM
 
 |Senior Consultant | Nov 2007 - Sep 2012 |
-|------------------|---------------------|
+
 
 Senior Consultant for EOH Project & Portfolio Management (formerly Gallium Professional Services).
 
@@ -108,7 +105,7 @@ Technical achievements during this time include
 ### Business Connexion
 
 |Message Architect | Jul 2007 - Oct 2007 |
-|------------------|---------------------|
+
 
 Message Architect for Eskom BASC Integration Competency Centre. 
 
@@ -124,12 +121,10 @@ Technical competencies used in this role included expertise in the full range of
 ### SiloFX
 
 |Integration Specialist | Oct 2005 - Jun 2007 |
-|-----------------------|---------------------|
 
 Integration Specialist primarily using Seebeyond ICAN and Sun CAPS in the Eskom IS environment.
 
 |Project Manager   | May 2005 - Sep 2005 |
-|------------------|---------------------|
 
 Project Manager for the Cordaptix Ukukala Project at Eskom.
 
@@ -144,12 +139,10 @@ The management tasks included the management of the definition document approval
 The business requirements for the KPIs had to be confirmed, clarified and often corrected with business representatives. The technical requirements had to be confirmed, clarified and corrected with data warehouse as well as production system SMEs and technical issues had to be solved in an effective manner.
 
 |Systems Analyst   | Jun 2004 - Apr 2005 |
-|------------------|---------------------|
 
 Systems Analyst for an Eskom 7 to 6 reorganisation project. Tasks included involvement in the design of message architectures, the design of business and technical processes and technical process implementations using SeeBeyond ICAN. SeeBeyond eInsight was used to prototype proposed integration solutions to effect a change of Eskom systems from a seven region model to a six region model to align with regulatory changes.
 
 |Software Developer| Nov 2002 - Jun 2004 |
-|------------------|---------------------|
 
 
 Software Developer involved in the architecture, design, coding, debugging and testing of a SiloFX Enterprise applications called Synap-C SAE (software architecture engine) and Synap-C EA (enterprise architecture). 
