@@ -155,12 +155,14 @@ A full UML based design methodology with strong focus on documentation and testi
 
 | Institution            | Qualification                          | Attendance |
 |------------------------|----------------------------------------|------------|
+
 | CTI                    | Computer Science Diploma: Oracle/Java  |  2002-2002 |
 | Hoërskool Andrew Rabie | Matric                                 |  1988-1993 | 
 
 ### Certifications
 
 | Institution            | Certification                             | 
+
 |------------------------|-------------------------------------------|
 | HP ExpertOne           | HP AIS - Project Portfolio Management 9.1 |  
 
