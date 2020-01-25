@@ -1,7 +1,4 @@
----
-layout: cv
-title: Philip Wood's CV
----
+
 # Philip Wood
 
 <div id="webaddress">
