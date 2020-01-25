@@ -21,6 +21,7 @@ I'm a self-motivated, solution-orientated individual with strong communication s
 
 |Principal DevOps Engineer | Grindrod Bank | Nov 2018 - Present |
 |----------------|---------------|--------------------|
+| | |  |
 
 Principal DevOps Engineer for the Grindrod Bank Bigbaobab team.
 
