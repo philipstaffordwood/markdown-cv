@@ -3,7 +3,7 @@
 
 <philip.wood@gmail.com>
 <https://github.com/philipstaffordwood>
-<www.linkedin.com/in/philipstaffordwood>
+<https://www.linkedin.com/in/philipstaffordwood>
 
 **Currently:** DevOps Engineer at [BVNK LTD](https://bvnk.co/)
 
