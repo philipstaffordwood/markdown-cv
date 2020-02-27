@@ -1,8 +1,10 @@
 # markdown-cv
 
+CV-as-code for Philip Wood
+
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+Forked from [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) (see original project for more details).
 
 ***
 
@@ -56,9 +58,11 @@ Any other styling is possible. More CSS style contributions and forks are welcom
 
 ### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+original project Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+
+`This CV` [Philip Wood](https://www.linkedin.com/in/philipstaffordwood/)
 
 ### License
 
