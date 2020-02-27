@@ -4,6 +4,8 @@ CV-as-code for Philip Wood
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
+CV visible aat https://philipstaffordwood.github.io/philipstaffordwood-cv/
+
 Forked from [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) (see original project for more details).
 
 ***
