@@ -98,6 +98,19 @@ Followed up by being a Senior Integration Developer for the Vodacom Business OSS
 
 Primary technology Oracle Fusion Middleware using OSB and Oracle SOA suite and some J2EE interfaces.
 
+My primary role was implementing integration solutions for Vodacom in various divisions.
+I initially served as senior integration developer on the EVO project – a project to integrate the central Vodafone SAP with several Vodacom back-end systems.
+
+Development was done using Oracle Fusion Middleware, mostly using SOA Suite. I was personally responsible for the Omnix supply chain management interfaces.
+After the EVO project went live, I served as the primary support person for these 22 interfaces for a period of several months.
+
+During the development phase of the project a Jenkins-based automated deployment solution was developed. TRAC was introduced as a central wiki and ticketing system.
+I assisted with informal load testing of the final solution using LoadUI and then testing a VM version of the solution to failure to do root cause analysis of the primary failure modes of the system to guide performance tuning.
+
+To troubleshoot troubling GL posting mismatches between postings from the GL interfaces and aggregated totals of stock movements from the stock movement interfaces, I used the OFMW management API to produce recon reports to troubleshoot and pinpoint missing transactions.
+
+I later joined the Vodacom OSS Fusion development team at Vodacom. I played part in multiple projects, most notably the SMARTT upgrade of HP Service Desk to Remedy. Development was done using Oracle Fusion Middleware, mostly using OSB. The team approach had each developer individually performing integration analysis, systems design and implementation of his assigned interfaces.
+
 ---
 
 ### EOH PPM
